@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_070d28d0-3a02-4c0e-8e5f-3a341a5c54d0.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_070d28d0-3a02-4c0e-8e5f-3a341a5c54d0.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_12b3cf42-7e69-4b07-9ff8-303270cb68e9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inmu_12b3cf42-7e69-4b07-9ff8-303270cb68e9.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_1a522d2b-9776-45e9-83b7-ad3e5c2735a4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inmu_1a522d2b-9776-45e9-83b7-ad3e5c2735a4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_28e473b9-b416-4bb3-a8dc-c3b915ef3cc6.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_28e473b9-b416-4bb3-a8dc-c3b915ef3cc6.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_69bbfe38-05e1-4816-a5b1-14c2531ba2b1.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_69bbfe38-05e1-4816-a5b1-14c2531ba2b1.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_80e990d3-63db-419f-9dd5-059509a3a27a.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_80e990d3-63db-419f-9dd5-059509a3a27a.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_9f33e5ee-9b45-4beb-97da-f676d1aecd3b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inmu_9f33e5ee-9b45-4beb-97da-f676d1aecd3b.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_a7634899-f4fe-4066-b6cb-4444c9beed3f.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_a7634899-f4fe-4066-b6cb-4444c9beed3f.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_b8002e56-863a-4f4c-8a3b-956c29440f06.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_b8002e56-863a-4f4c-8a3b-956c29440f06.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_c49d8aa5-524e-448d-89f1-240d2435357f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inmu_c49d8aa5-524e-448d-89f1-240d2435357f.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_c6281d88-c1aa-4dcf-9c45-cee82ac81722.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inmu_c6281d88-c1aa-4dcf-9c45-cee82ac81722.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_d4861e32-1ab2-4920-9854-2f5a8435d1d7.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_d4861e32-1ab2-4920-9854-2f5a8435d1d7.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_d958a24c-bdff-481d-a455-44a3a02ef2b5.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_d958a24c-bdff-481d-a455-44a3a02ef2b5.jfif"
+    },
+    {
+      "Id": "c:\\Users\\Usuario\\Documents\\.net\\Api_Inmo\\wwwroot\\uploads\\inmu_f6b70e45-c05e-4065-a5fd-69fe4a1d49d6.jfif",
+      "PackagePath": "staticwebassets\\uploads\\inmu_f6b70e45-c05e-4065-a5fd-69fe4a1d49d6.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api_Inmo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api_Inmo.props",
+      "PackagePath": "build\\Api_Inmo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api_Inmo.props",
+      "PackagePath": "buildMultiTargeting\\Api_Inmo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api_Inmo.props",
+      "PackagePath": "buildTransitive\\Api_Inmo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
